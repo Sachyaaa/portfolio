@@ -84,9 +84,10 @@ export const experienceItems = [
     metrics: ['10+ APIs shipped', '25% faster database performance', '90%+ test coverage'],
     highlights: [
       'Built 5+ REST APIs and 5+ GraphQL APIs using Java, Spring Boot, and Spring WebFlux.',
+      'Contributed to SHIM integration enabling communication between 3+ legacy systems and modern microservices.',
       'Improved database latency by 25% through query tuning and backend optimization.',
       'Maintained 90%+ test coverage with JUnit and Mockito to support safer production releases.',
-      'Handled P1/P2 production incidents and coordinated fixes across the SDLC lifecycle.',
+      'Resolved P1/P2 production incidents within SLA timelines, reducing turnaround time by 30%.',
     ],
   },
   {
@@ -96,10 +97,11 @@ export const experienceItems = [
     period: 'Nov 2023 - Nov 2024',
     summary:
       'Contributed to enterprise backend delivery, debugging, testing, and API implementation while building strong ownership habits.',
-    metrics: ['Spring-based backend delivery', 'Release support', 'Testing discipline'],
+    metrics: ['8+ APIs supported', 'Release support', 'Testing discipline'],
     highlights: [
-      'Supported delivery of backend features across Java and Spring-based services.',
-      'Participated in sprint planning, code reviews, debugging, and release readiness activities.',
+      'Assisted in backend feature implementation across 8+ APIs using Java and Spring Boot.',
+      'Developed and tested 3+ REST APIs and 5+ GraphQL APIs following enterprise coding standards.',
+      'Participated in sprint planning, retrospectives, debugging, and release readiness activities.',
       'Strengthened reliability through test automation and structured defect resolution.',
     ],
   },
